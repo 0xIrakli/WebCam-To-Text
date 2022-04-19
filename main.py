@@ -1,9 +1,3 @@
-##---------------------------------
-##Made by Butu
-##CopyRighed
-##DO NOT STEAL
-##Steal=Death (slow and painful btw)
-##---------------------------------
 from PIL import Image
 import time
 import cv2
@@ -11,7 +5,8 @@ import os
 
 string = ''
 char = "._-~+=?08$%&#"
-cap = cv2.VideoCapture(0)
+CAMERA_NUMBER = int(open('config.txt', 'r').read())
+cap = cv2.VideoCapture(CAMERA_NUMBER)
 char_len = len(char)
 threshhold = 255/char_len
 while True:
