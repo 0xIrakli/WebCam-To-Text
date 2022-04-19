@@ -6,7 +6,7 @@ Turns webcam feed into Ascii art.
 Just opening the main.py file will start the program. Put the command prompt window in fullscreen mode.
 If you want to change between different cameras open the config.txt file, change the number inside (increment the number by 1) and relaunch the program.
 
-## Heres Me In A Shirt And Headphones. (super low quality version)
+## Heres Me Giving 👍 In A Shirt And Headphones. (super low quality version)
 ```
 %%$8$%%%%%%%%%$%&&&&&&&&&&%%%%$$$$$$$80=-____...................__-=$%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%$8$%%%%%%%%%$%&&&&&&&&&&&%%%$$%$$$8=-__........................___=$%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
